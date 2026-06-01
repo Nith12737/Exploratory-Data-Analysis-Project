@@ -1,2 +1,22 @@
-# Exploratory-Data-Analysis-Project
-A Python-based Exploratory Data Analysis (EDA) project that analyzes datasets using statistical summaries, correlation analysis, and data visualizations to uncover patterns and trends.
+# Exploratory Data Analysis (EDA) Project
+
+## Overview
+This project demonstrates Exploratory Data Analysis (EDA) using Python.
+
+## Features
+- Data Loading and Inspection
+- Statistical Summary
+- Missing Value Analysis
+- Correlation Analysis
+- Heatmap Visualization
+- Histograms
+- Pair Plots
+
+## Installation
+pip install -r requirements.txt
+
+## Run
+python eda.py
+
+## Author
+Karri Nithin
